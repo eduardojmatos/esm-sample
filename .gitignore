@@ -1,0 +1,11 @@
+# local development
+.DS_Store
+
+# project artefacts
+.esm-cache
+node_modules
+.npm
+*.log
+.esm-cache
+coverage
+
